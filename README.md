@@ -4,8 +4,6 @@
 
 
 <div align="center">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ic3d00&label=Profile%20views&color=0e75b6&style=flat" alt="ic3d00" /> </p>
-
   
   <a href="https://discord.gg/3h2WpSH7Sg">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
